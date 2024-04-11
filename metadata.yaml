@@ -1,0 +1,34 @@
+_repo: Static_73175
+_version: 0.0.1
+creator:
+  author:
+    agent_name: West, Wallace
+    alias: West, Wallace George
+    birthdate: 1900
+    deathdate: 1980
+    gutenberg_agent_id: '33900'
+    url: http://www.gutenberg.org/2009/agents/33900
+    wikipedia: https://en.wikipedia.org/wiki/Wallace_West
+description: ''
+gutenberg_issued: '2024-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73175'
+language: en
+pgterms:marc904: https://archive.org/details/sea-stories-magazine-v-13-n-01-1926-09
+pgterms:marc905: 20240311081743west
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Roger Frank, Sue Clark
+publication_note: '  $aUnited States :$bStreet & Smith Corporation, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'British -- Africa -- Fiction'
+- !lcsh 'Radio -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Static
+url: http://www.gutenberg.org/ebooks/73175
